@@ -92,7 +92,7 @@ This project was built to showcase everything learned during the 3MTT x Darey.io
 ### Clone the repo
 
 ```
-git clone https://github.com/Bennet-Ukoh/ai_resume_reviewer.git
+git clone  https://github.com/Bennet-Ukoh/ai-review-resume.git
 ```
 
 cd ai-resume-reviewer
